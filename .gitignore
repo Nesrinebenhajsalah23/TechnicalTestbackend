@@ -1,0 +1,10 @@
+# Ignore tous les fichiers .env
+*.env
+
+# Ignore le node_modules du backend
+Backend/node_modules/
+
+# Optionnel : ignore node_modules partout
+node_modules/
+git add .gitignore
+git add -u
